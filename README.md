@@ -9,7 +9,7 @@ My last few 🐐 projects include
 
 
 Want to collaborate on something, preferrably at the intersection of useful-ish, fascinating and good kinda weird?
-- 📫 **vinay** followed by **up** at Goggle's email service
+- 📫 **vinay** followed by **up** at Google's email service
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vinayprabhu?label=Follow&style=social)](https://twitter.com/vinayprabhu)
