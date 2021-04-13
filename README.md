@@ -12,9 +12,11 @@ Want to collaborate on something, preferrably at the intersection of useful-ish,
 - 📫 **vinay** followed by **up** at Goggle's email service
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/vinayprabhu?label=Follow&style=social)](https://twitter.com/vinayprabhu)
+
 <div align="middle">
  
-[Follow my sh\*t-tweets][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[LinkedIn to lower your prospects in the industry][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Check out my equally haphazard website][Website] :link:  |&nbsp;&nbsp;&nbsp;[Follow my ill-posed thoughts on Medium][Medium] 📝&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;[LinkedIn to lower your prospects in the industry][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Check out my equally haphazard website][Website] :link:  |&nbsp;&nbsp;&nbsp;[Follow my ill-posed thoughts on Medium][Medium] 📝&nbsp;&nbsp;&nbsp;|
 
 </div>
 
